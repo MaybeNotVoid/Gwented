@@ -1,0 +1,11 @@
+{
+  "favorites": [],
+  "history": [],
+  "hotkey": "F2",
+  "hotkey_enabled": true,
+  "auto_close_console": true,
+  "animation_delay_ms": 400,
+  "typing_speed": "normale",
+  "close_method": "toggle",
+  "input_mode": "clipboard"
+}
